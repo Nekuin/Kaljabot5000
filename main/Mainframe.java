@@ -1,4 +1,4 @@
-package Paaohjelma;
+package main;
 import Moving.*;
 import lejos.hardware.Button;
 import lejos.hardware.lcd.LCD;
@@ -10,7 +10,7 @@ import lejos.hardware.sensor.EV3ColorSensor;
 import lejos.hardware.sensor.EV3IRSensor;
 import lejos.robotics.RegulatedMotor;
 import lejos.utility.Delay;
-public class Paaohjelma {
+public class Mainframe {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
