@@ -31,7 +31,7 @@ public class Mainframe {
 		checker.start();
 		c.start();
 		b.start();
-		//dev branch only
+		
 		
 		int color = c.getColor();
 		int grabstate = 2;
