@@ -31,7 +31,7 @@ public class Paaohjelma {
 		checker.start();
 		c.start();
 		b.start();
-		//dev branch only
+		//master
 		
 		int color = c.getColor();
 		int grabstate = 2;
