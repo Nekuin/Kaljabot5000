@@ -32,6 +32,7 @@ public class Paaohjelma {
 		c.start();
 		b.start();
 		
+		
 		int color = c.getColor();
 		int grabstate = 2;
 		
@@ -68,8 +69,7 @@ public class Paaohjelma {
 			}
 			
 		}
-		//checker.stop();
-		//move.stop();
+
 	}
 
 }
