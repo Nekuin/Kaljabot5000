@@ -31,7 +31,7 @@ public class Paaohjelma {
 		checker.start();
 		c.start();
 		b.start();
-		
+		//push test
 		
 		int color = c.getColor();
 		int grabstate = 2;
